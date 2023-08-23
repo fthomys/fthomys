@@ -32,7 +32,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FabiChan99&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FabiChan99&show_icons=true&count_private=true&hide_border=true" align="center" /><br><br><br><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FabiChan99&theme=tokyonight" align="center" /></div>
+</div>
+
+
 
 <br/>  
 
