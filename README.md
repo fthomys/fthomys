@@ -30,12 +30,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://raw.githubusercontent.com/FabiChan99/github-stats-transparent/output/generated/overview.svg" align="center" /><br><br><br><img src="https://raw.githubusercontent.com/FabiChan99/github-stats-transparent/output/generated/languages.svg" align="center" /></div>
-</div>
-
-
-
-<br/>  
+<p align="center">
+  <!-- https://github.com/rahul-jha98/github-stats-transparent -->
+  <img src="https://raw.githubusercontent.com/FabiChan99/github-stats-transparent/output/generated/overview.svg"/>
+  <img src="https://raw.githubusercontent.com/FabiChan99/github-stats-transparent/output/generated/languages.svg"/>
+</p>
 
 
 ## Currently listening to 
