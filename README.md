@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Fabi, a little hobby dev from Germany<br>Mostly C#</div>  
+### <div align="center">I'm Fabi, a little hobby dev from Germany<br>Mostly C# and Kotlin</div>  
   
 
 <br/>  
