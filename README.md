@@ -7,8 +7,8 @@
 ## Github Stats  
 <p align="center">
   <!-- https://github.com/rahul-jha98/github-stats-transparent -->
-  <img src="https://raw.githubusercontent.com/FabiChan99/github-stats-transparent/output/generated/overview.svg"/>
-  <img src="https://raw.githubusercontent.com/FabiChan99/github-stats-transparent/output/generated/languages.svg"/>
+  <img src="https://raw.githubusercontent.com/fthomys/github-stats/output/generated/overview.svg"/>
+  <img src="https://raw.githubusercontent.com/fthomys/github-stats/output/generated/languages.svg"/>
 </p>
 
 
