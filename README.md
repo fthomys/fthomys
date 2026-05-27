@@ -4,14 +4,6 @@
 
 
 
-## Github Stats  
-<p align="center">
-  <!-- https://github.com/rahul-jha98/github-stats-transparent -->
-  <img src="https://raw.githubusercontent.com/fthomys/github-stats/output/generated/overview.svg"/>
-  <img src="https://raw.githubusercontent.com/fthomys/github-stats/output/generated/languages.svg"/>
-</p>
-
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=FabiChan99&&style=flat-square" align="center" />
 </div>  
